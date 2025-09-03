@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "dailyApple",
-    "slug": "dailyApple",
+    "name": "오늘의 사과",
+    "slug": "오늘의 사과",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -10,7 +10,7 @@
     "newArchEnabled": true,
     "splash": {
       "image": "./assets/images/splash-icon.png",
-      "resizeMode": "contain",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "ios": {
